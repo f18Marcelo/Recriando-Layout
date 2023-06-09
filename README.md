@@ -2,8 +2,8 @@
 
 <p align="center">
 Página de segurança exclusivo e gratuito. Projeto criado durante o curso Explorer promovido pela
- <a href="https://rocketforms.typeform.com/to/fPcSmBp9#referral_id=f28d3c70-a961-42b9-9b49-ac3686ea0afc" target="_blank"  >Rocketseat</p>
-
+  <a href="https://rocketforms.typeform.com/to/fPcSmBp9#referral_id=f28d3c70-a961-42b9-9b49-ac3686ea0afc" target="_blank">Rocketseat</a>
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@ Página de segurança exclusivo e gratuito. Projeto criado durante o curso Explo
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML 
+- HTML
 - CSS
 - Git e Github
 - Figma
