@@ -2,7 +2,7 @@
 
 <p align="center">
 Página de segurança exclusivo e gratuito. Projeto criado durante o curso Explorer promovido pela
- <a href="https://rocketforms.typeform.com/to/fPcSmBp9#referral_id=f28d3c70-a961-42b9-9b49-ac3686ea0afc"  >Rocketseat</p>
+ <a href="https://rocketforms.typeform.com/to/fPcSmBp9#referral_id=f28d3c70-a961-42b9-9b49-ac3686ea0afc" target="_blank"  >Rocketseat</p>
 
 
 <p align="center">
